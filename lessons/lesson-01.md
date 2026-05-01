@@ -78,7 +78,7 @@ We'll build a tiny "todo" minimal API. This mirrors how `Catalog.API` is structu
 ### Step 1 — Create the project
 
 ```bash
-cd E:/1applications/CSharp-Learning/hands-on/lesson-01-hello-api
+cd hands-on/lesson-01-hello-api
 dotnet new webapi -n HelloApi --use-minimal-apis
 cd HelloApi
 ```

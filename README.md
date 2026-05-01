@@ -2,8 +2,15 @@
 
 A guided learning journey using two real-world reference repos:
 
-- **`E:\1applications\CleanArchitecture`** — Jason Taylor's Clean Architecture template (single-service, easy to digest).
-- **`E:\1applications\eShop`** — Microsoft's official microservices reference app (multi-service, real-world complexity).
+- **[jasontaylordev/CleanArchitecture](https://github.com/jasontaylordev/CleanArchitecture)** — Jason Taylor's Clean Architecture template (single-service, easy to digest).
+- **[dotnet/eShop](https://github.com/dotnet/eShop)** — Microsoft's official microservices reference app (multi-service, real-world complexity).
+
+Clone them alongside this repo if you want to browse locally:
+
+```bash
+git clone https://github.com/jasontaylordev/CleanArchitecture.git
+git clone https://github.com/dotnet/eShop.git
+```
 
 ## Folder layout
 
